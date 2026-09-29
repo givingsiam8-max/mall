@@ -1,0 +1,6 @@
+{
+  "name": "Email Inventory & Campaign Manager",
+  "description": "Production-ready Excel email extraction, inventory management, suppression controls, and batch campaign delivery system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
